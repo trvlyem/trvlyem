@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**trvlyem/trvlyem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Emily, an aspiring Computer Science student with a strong interest in 
+problem-solving, software development, and building meaningful projects through code.
 
-Here are some ideas to get you started:
+I have a strong focus on mathematics, logical thinking, and independent learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technical Skills
+- Languages: Python, JavaScript
+- Web: HTML, CSS
+- Data & Analysis: Pandas
+- Tools: Git, GitHub, VS Code
+
+---
+
+## 📖 Interests
+- Mathematics  
+- Data analysis  
+- Game development  
+- Technology and innovation
+- Music
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/trvlyem
+
+---
+
