@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello, World! 🌍
 
 I'm Emily, an aspiring Computer Science student with a strong interest in 
 problem-solving, software development, and building meaningful projects through code.
