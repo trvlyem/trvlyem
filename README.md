@@ -11,7 +11,6 @@ I have a strong focus on mathematics, logical thinking, and independent learning
 - Languages: Python, JavaScript
 - Web: HTML, CSS
 - Data & Analysis: Pandas
-- Tools: Git, GitHub, VS Code
 
 ---
 
