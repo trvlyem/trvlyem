@@ -8,7 +8,7 @@ I have a strong focus on mathematics, logical thinking, and independent learning
 ---
 
 ## 💻 Technical Skills
-- Languages: Python, JavaScript
+- Languages: Python, JavaScript, Java
 - Web: HTML, CSS
 - Data & Analysis: Pandas
 
