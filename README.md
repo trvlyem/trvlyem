@@ -10,7 +10,7 @@ I have a strong focus on mathematics, logical thinking, and independent learning
 ## 💻 Technical Skills
 - Languages: Python, JavaScript, Java
 - Web: HTML, CSS
-- Data & Analysis: Pandas
+- Data & Analysis: Pandas, SQL
 
 ---
 
@@ -22,9 +22,3 @@ I have a strong focus on mathematics, logical thinking, and independent learning
 - Music
 
 ---
-
-## 📫 Contact
-- GitHub: https://github.com/trvlyem
-
----
-
