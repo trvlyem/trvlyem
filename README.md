@@ -17,7 +17,6 @@ I have a strong focus on mathematics, logical thinking, and independent learning
 ## 📖 Interests
 - Mathematics  
 - Data analysis  
-- Game development  
 - Technology and innovation
 - Music
 
