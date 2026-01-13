@@ -6,8 +6,8 @@ problem-solving, software development, and building meaningful projects through 
 ---
 
 ## 💻 Technical Skills
-- Languages: Python, JavaScript, Java
-- Web: HTML, CSS
+- Languages: Python, Java, C++
+- Web: HTML, CSS, JavaScript 
 - Data & Analysis: Pandas, SQL
 
 ---
