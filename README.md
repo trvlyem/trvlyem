@@ -13,8 +13,8 @@ problem-solving, software development, and building meaningful projects through 
 ---
 
 ## 📖 Interests
-- Mathematics  
-- Data analysis  
+- Mathematics
+- Films
 - Technology and innovation
 - Music
 
